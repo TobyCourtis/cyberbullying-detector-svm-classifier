@@ -23,9 +23,11 @@ SVM (classifier) component of the 'Cyberbullying Detector' used to produce class
   </ul>
 </ul>
 <ul>
-<li><b>Classifer</b>: SVM using scikit-learn library</li>
+  <li><b>Classifer</b>: SVM using scikit-learn library</li>
   <ul>
   <li>Trained using aquired 80% training data and GloVe vector lookup and input</li>
   <li>Training parameters varied whilst prototyping with accuracy tested against 20% testing data</li>
+  <li>Download a few of the best performing classifiers <a href="https://drive.google.com/open?id=1_RR5WVZt3rrFuTVHwXuuruheb48BZcE_">here</a></li>
+  <li>The best performing classifier is included in the repository within /classifiers</li>
   </ul>
 </ul>
