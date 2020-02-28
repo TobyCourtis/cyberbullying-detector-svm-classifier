@@ -4,6 +4,7 @@ import numpy
 
 index_map = dict()
 vectors = numpy.empty((1917494,300), dtype=numpy.float32)
+# if recreating simply point the below directory to a new trained GloVe file with layout 'word,1,2,3,4....299,300' word then vector on each line
 with open("/Users/tobycourtis/Desktop/GloVe-1.2/_Extra/glove.42B.300d.txt","r") as f:
     #print(len(f.readlines()))
     for i, line in enumerate(f):
