@@ -1,5 +1,7 @@
 # cyberbullying-detector-svm-classifier
 SVM (classifier) component of the 'Cyberbullying Detector' used to produce classifer '.sav' file for usage in cyberbullying-detector-server
+<br></br>
+My research paper titled ‘Towards Automated Blocking of Cyberbullying in Online Social Networks’, outlining the background and approach to producing my cyberbullying detector can be viewed [here](http://www.tobycourtis.com/wp-content/uploads/2020/04/Towards-Automated-Blocking-of-Cyberbullying-in-OSNs.pdf).
 
 <h3>All files were used in the creation of the final SVM classifier used in my 'Cyberbullying Detector'</h3>
 <ul>
