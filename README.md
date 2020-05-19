@@ -4,7 +4,7 @@ SVM (classifier) component of the 'Cyberbullying Detector' used to produce class
 My research paper titled ‘Towards Automated Blocking of Cyberbullying in Online Social Networks’, outlining the background and approach to producing my cyberbullying detector can be viewed [here](http://www.tobycourtis.com/wp-content/uploads/2020/04/Towards-Automated-Blocking-of-Cyberbullying-in-OSNs.pdf).
 <br></br>
 Experiment by inputting text to the classifier through the Google Chrome extension user interface [here](http://www.tobycourtis.com/index.php/cyberbullying_detector/).
-
+<br></br>
 <h3>All files were used in the creation of the final SVM classifier used in my 'Cyberbullying Detector'</h3>
 <ul>
 <li><b>Word Representation</b>: <a href="https://nlp.stanford.edu/projects/glove/">GloVe</a> Vectors (42B tokens, 300d vectors)</li>
